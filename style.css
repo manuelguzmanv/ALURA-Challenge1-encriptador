@@ -26,11 +26,14 @@ body {
 }
 
 .logo {
+  width: 50px;
   text-align: center;
   border-radius: 20%;
+
 }
 
 .title {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   padding: 15px;
   width: 30vw;
   margin: auto;
@@ -81,5 +84,5 @@ body {
 }
 
 .footer-icon {
-  height: 50px;
+    height: 50px;
 }
